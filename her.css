@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    background:pink;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.text-only{
+    max-width: 500px;
+    text-align: center;
+}
+.heading{
+    height: 100vh;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+}
+
+.thanks{
+    padding:  50px;
+}
